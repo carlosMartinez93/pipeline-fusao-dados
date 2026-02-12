@@ -19,5 +19,4 @@ venv/
 .vscode/
 
 # Data outputs (opcional)
-data_processed/*.csv
 EOF
