@@ -8,3 +8,10 @@ Este projeto foi feito para praticar fundamentos de Engenharia de Dados e boas p
 
 ## Estrutura de Pastas
 
+pipeline_dados/
+├─ data_raw/ # Dados de entrada (brutos)
+├─ data_processed/ # Saídas do pipeline (dados tratados)
+├─ notebooks/ # Explorações e testes (Jupyter)
+├─ scripts/ # Scripts do pipeline (execução)
+└─ venv/ # Ambiente virtual (local)
+
