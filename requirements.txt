@@ -1,0 +1,19 @@
+
+---
+
+## Pré-requisitos
+
+- Python 3.10+
+- (Recomendado) Rodar via WSL (Ubuntu) + VS Code com extensão WSL
+
+---
+
+## Setup do Ambiente (WSL)
+
+Na raiz do projeto:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -U pip
+pip install pandas numpy
